@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="welcome_title">Welcome to Story App!</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="login_title">Login to Story App</string>
+    <string name="login_email">Your email</string>
+    <string name="tvf_email">Email</string>
+    <string name="tvf_password">Password</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgot_pw">Forgot Password?</string>
+    <string name="login_dont_have_account">I don\'t have an account <font color="#FF6200EE">Register</font></string>
+    <string name="register_title">Create an Account</string>
+    <string name="tvf_fullname">Full Name</string>
+    <string name="register_email">Your email</string>
+    <string name="register_fullname">Your full name</string>
+    <string name="register_password">Your password</string>
+    <string name="tvf_confirm_password">Confirm password</string>
+    <string name="register_confirm_password">Confirm password</string>
+    <string name="register_have_account">I already have an account <font color="#FF6200EE">Login</font></string>
+    <string name="tvf_username">Username</string>
+    <string name="register_username">Your username</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="desc_image_story">Image of Story</string>
+    <string name="user_name">Nama User</string>
+    <string name="description">Story Description</string>
+    <string name="desc">Description:</string>
+    <string name="title_detail_story">Detail Story</string>
+    <string name="title_post_story">Upload Story</string>
+    <string name="settings">Settings</string>
+    <string name="add">Add Post</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="input_description">Write the description here..</string>
+    <string name="choose_image">Choose a Picture</string>
+    <string name="empty_description">Description can\'t be empty</string>
+    <string name="empty_file">File is empty or not found</string>
+    <string name="picture" translatable="false">picture</string>
+    <string name="is_back_camera" translatable="false">isBackCamera</string>
+    <string name="media_type" translatable="false">image/jpeg</string>
+    <string name="photo" translatable="false">photo</string>
+    <string name="no_permission">Not getting permission.</string>
+    <string name="description_type" translatable="false">text/plain</string>
+    <string name="intent_type" translatable="false">image/*</string>
+    <string name="failed_take_a_picture">Failed to take a picture.</string>
+    <string name="extra_picture" translatable="false">picture</string>
+    <string name="extra_is_back_camera" translatable="false">isBackCamera</string>
+    <string name="failed_bring_up_camera">Failed to bring up the camera.</string>
+    <string name="toast_upload_successfully">Upload successfully</string>
+    <string name="toast_login_error_message">Login failed, please try again.</string>
+    <string name="toast_register_success">Register successfully. Please login</string>
+    <string name="toast_register_failed">Registration failed, please check again.</string>
+    <string name="toast_description_empty">Description can not be empty</string>
+    <string name="toast_login_success">Login Successfully</string>
+    <string name="desc_capture">Button to capture image</string>
+    <string name="desc_switch_camera">Button to switch camera position</string>
+    <string name="refresh">Refresh</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="are_you_sure_log_out">Are you sure you want to log out of the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="desc_logo">Logo of Story App</string>
+    <string name="invalid_email">Invalid Email Format</string>
+    <string name="empty_email">Email can not be empty</string>
+    <string name="validation_password">Password must contain at least 8 characters</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_upload_story">Upload Story</string>
+    <string name="tv_setting">Language settings</string>
+    <string name="tv_logout">Logout</string>
+    <string name="btn_language_setting">LANGUAGE SETTING</string>
+    <string name="desc_splash_screen">Splash Screen</string>
+    <string name="view_share_my_location">Share my location</string>
+    <string name="desc_button_map">Button to view the map</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="retry">Try Again</string>
+    <string name="tv_no_stories_found">No Stories Found</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location_enabled">location enabled</string>
+    <string name="location_disabled">location disabled</string>
+</resources>
